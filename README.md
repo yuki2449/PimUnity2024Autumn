@@ -1,4 +1,4 @@
-this for pim's party for developing game with unity in automn 2024.
+this for pim's party for developing game with unity in autumn 2024.
 
 you need ready unity in version "2022.3.45f1".
 
