@@ -37,6 +37,7 @@ flowchart LR
   "Record":
   [
     {
+      "Vehicle":string,
       "RaceID":int,
       "StartTime":Date,
       "GoalTime":Date,
