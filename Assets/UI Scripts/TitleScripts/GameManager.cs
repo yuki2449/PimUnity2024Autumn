@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class NewBehaviourScript : MonoBehaviour
 {
@@ -14,5 +15,11 @@ public class NewBehaviourScript : MonoBehaviour
     void Update()
     {
         
+    }
+
+    public void StartButton()
+    {
+        Debug.Log("Start");
+        SceneManager.LoadScene("SelectScene");
     }
 }
