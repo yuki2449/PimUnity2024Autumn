@@ -45,3 +45,18 @@ flowchart LR
     },
   ]
 }
+
+
+## Specification of vehicle.json
+
+{
+    "Vehicle":
+    [
+        {
+            "Vehicle":int,
+            "accel":float,
+            "brac":float,
+            "Stare":float
+        },
+    ]
+}
